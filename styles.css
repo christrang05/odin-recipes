@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(254, 243, 231);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.disclaimer {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link .text {
+    font-size: 20px;
+}
+
